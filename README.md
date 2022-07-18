@@ -1,2 +1,10 @@
-# A New Beginning
-@TODO - document folder structure and reasoning
+# Suggested Folder Structure
+
+
+- component-folder
+  - story
+    - generated
+      - config.ts 
+      - index.stories.ts
+    - component-story.stories.ts
+    - user-config.ts
